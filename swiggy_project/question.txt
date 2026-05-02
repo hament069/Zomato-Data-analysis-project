@@ -1,0 +1,68 @@
+--Problem 1: High Order Cancellation
+
+Why it matters:
+
+Loss of revenue
+Bad user experience
+
+Questions:
+
+Which city has the highest cancellations?
+Which restaurants cancel most?
+Is delivery time causing cancellation?
+
+
+
+-- Problem 2: Slow Delivery Time
+
+Why it matters:
+
+Leads to low ratings
+Reduces repeat customers
+
+Questions:
+
+Which cities have highest delivery time?
+Which restaurants are slow?
+Does long delivery → low rating?
+
+
+
+-- Problem 3: Low Customer Ratings
+
+Why it matters:
+
+Direct impact on brand trust
+
+Questions:
+
+Which restaurants have low ratings?
+Which cuisine performs worst?
+Is rating linked with delivery time?
+
+
+
+-- Problem 4: Revenue Leakage / Low Performing Areas
+
+Why it matters:
+
+Business wants maximum profit
+
+Questions:
+
+Which city generates highest revenue?
+Which cuisine gives most revenue?
+Which restaurants are underperforming?
+
+
+
+-- Problem 5: Payment Behavior Insights
+
+Why it matters:
+
+Helps optimize offers & UX
+
+Questions:
+
+Which payment mode is most used?
+Do cancellations depend on payment type?
